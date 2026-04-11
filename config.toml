@@ -1,4 +1,4 @@
-site_title = "MyArxiv"
+site_title = "Arxiv Daily"
 limit_days = 7
 cache_url = "https://matheart.github.io/MyArxiv/cache.json"
 
