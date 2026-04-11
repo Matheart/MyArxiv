@@ -1,6 +1,6 @@
-let titles_type = ["Dataset", "Survey", "Review", "Overview"];
+let titles_type = [];
 let titles_model = ["Transformer"];
-let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised"];
+let titles_method = ["distillation", "probing", "sparse autoencoder"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = [
   // From your screenshot
