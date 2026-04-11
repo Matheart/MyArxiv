@@ -41,9 +41,9 @@ let authors_array = [
 
 let conferences = [
     // ML
-    "AISTATS", "ICLR", "ICML", "NeurIPS", "NIPS", "UAI", "COLT"
+    "AISTATS", "ICLR", "ICML", "NeurIPS", "NIPS", "UAI", "COLT",
     // NLP
-    "ACL", "EMNLP"
+    "ACL", "EMNLP",
     // Journal
     "TMLR", "JMLR"
 ];
