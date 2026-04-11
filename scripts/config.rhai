@@ -36,7 +36,8 @@ let authors_array = [
   "Greg Yang", "Behnam Neyshabur", "Moritz Hardt",
   "Yuanzhi Li", "Ruoqi Shen", "Daniel Soudry",
   "Nadav Cohen", "Misha Belkin", "Rene Vidal",
-  "Aaditya Ramdas", "Lester Mackey"
+  "Aaditya Ramdas", "Lester Mackey",
+  "Sinho Chewi", "Jason Altschuler", "Phillipe Rigollet", "Yury Polyanskiy",
 ];
 
 let conferences = [
