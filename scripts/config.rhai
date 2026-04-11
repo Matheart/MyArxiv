@@ -38,6 +38,7 @@ let authors_array = [
   "Nadav Cohen", "Misha Belkin", "Rene Vidal",
   "Aaditya Ramdas", "Lester Mackey",
   "Sinho Chewi", "Jason Altschuler", "Phillipe Rigollet", "Yury Polyanskiy",
+  “Neel Nanda", "MATS", "Arthur Conmy", "Dan Murfet", "Tomek Korbak", "Jacob Steinhardt"
 ];
 
 let conferences = [
