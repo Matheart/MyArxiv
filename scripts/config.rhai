@@ -1,6 +1,6 @@
 let titles_type = [];
 let titles_model = ["Transformer"];
-let titles_method = ["distillation", "probing", "sparse autoencoder"];
+let titles_method = ["distillation", "probing", "sparse autoencoder", "single-index model", "multi-index model", "optimization", "edge of stability", "theory", "scaling law"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = [
   // From your screenshot
